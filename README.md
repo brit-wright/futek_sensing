@@ -6,4 +6,4 @@ This repository is for interfacing with the Futek MBA500 (Thrust/Torque Biaxial 
 I recommend having the following Python modules installed: pyserial, datetime, csv, time, statistics. These allow for serial communication with the sensor, timed tests, storing results as .csv and computing standard deviation (if needed).
 
 # thrust/torque testing
-Although 
+//will add more info
